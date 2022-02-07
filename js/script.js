@@ -5,4 +5,4 @@ answers.addEventListener('click', function ask() {
     console.log('random number');
 })
 
-    
+
